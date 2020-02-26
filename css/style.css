@@ -1,0 +1,75 @@
+* {
+    /* padding: 0px 0px; */
+    margin:0 0 0 0;
+    padding: 0 0 0 0 ;
+    /* background-color: silver; */
+    /* width: 90%; */
+    color: navy;
+}
+body {
+    background-color: ;
+}
+    p{
+    color: yellow   ;
+    /* background-color: rgb(102, 138, 235)    ; */
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+    font-size: 125%;
+    width: 90%;
+}
+    h2{
+        color: navy   ;
+    /* background-color: rgb(102, 138, 235); */
+    /* padding: 15px; */
+    /* margin: auto; */
+    text-align: center;
+    font-size: 200%;
+    width: 80%;
+    /* font-stretch: expanded; */
+    
+}
+
+.a {
+    background-color: teal;
+    color: white   ;
+    padding: 5PX 15PX;
+    margin: 10PX;
+    cursor: pointer;
+}
+.a:hover {
+    background-color: white;
+    color: navy   ;
+    padding: 5PX 10PX;
+    margin: 2PX;
+    font-style: italic;
+    font-weight: bold;
+    box-shadow: 5px 3px burlywood;
+    font-size: 20px;
+}
+
+.footer, h3 {
+    color: navy;
+    background-color: rgb(102, 138, 235);
+    width: 90%;
+    text-decoration: underline;
+}
+.img{
+    width: 40%;
+    margin: 2px;
+    padding: 2px;
+}
+#New {
+    width: 80%;
+    border:  solid;
+    background-color: rgb(202, 238, 235);
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 15px;
+
+    /* margin: 10px 0px 0px 0px; */
+    text-shadow: 3px 3px 5px navy;
+    box-shadow: 8px 8px navy;
+}
